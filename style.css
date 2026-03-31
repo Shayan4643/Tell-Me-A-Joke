@@ -17,6 +17,12 @@ body {
 .container {
   text-align: center;
 }
+
+h1 {
+  font-size: 3rem;
+  text-shadow: 0 0 10px #007bff;
+}
+
 button {
   padding: 10px 20px;
   font-size: 15px;
@@ -31,6 +37,7 @@ button {
     0 0 20px #007bff,
     0 0 40px #007bff;
 }
+
 button:hover {
   background-color: #0056b3;
 }
